@@ -1,0 +1,18 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule Szybkie-tworzenie-darmowych-wydarzen index.php
+RewriteRule Organizacja-wydarzen organizuj.php
+RewriteRule Szczegoly-konferencji szczegoly_konf.php
+RewriteRule Twoje-konto twojekonto.php
+RewriteRule Wyszukaj-wydarzenie wyszukaj.php
+RewriteRule Zakonczone-wydarzenia zakonczone.php
+RewriteRule Nadchodzace-wydarzenia zalogowany.php
+RewriteRule Logowanie zalogujstrona.php
+RewriteRule Rejestracja zarejestrujstrona.php
+RewriteRule Moje-wydarzenia moje-wydarzenia.php
+RewriteRule Jestem-uczestnikiem jestem-uczestnikiem.php

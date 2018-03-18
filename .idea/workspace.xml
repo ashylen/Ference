@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ff4b6e2-ed6a-40ec-9ac9-442644984d14" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ference@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dodaj_uczestnika.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dodaj_uczestnika.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <folding>
+                <marker date="1518652784506" expanded="true" signature="502:580" ph="Select data_... wydarzenia" />
+                <marker date="1518652784506" expanded="true" signature="809:901" ph="SELECT ilosc... wydarzenia" />
+                <marker date="1518652784506" expanded="true" signature="1233:1354" ph="Select * fro... uczestnicy" />
+                <marker date="1518652784506" expanded="true" signature="1307:1353" ph="Select id fr... users" />
+                <marker date="1518652784506" expanded="true" signature="1761:1881" ph="insert into uczestnicy... " />
+                <marker date="1518652784506" expanded="true" signature="1812:1858" ph="Select id fr... users" />
+                <marker date="1518652784506" expanded="true" signature="2267:2355" ph="UPDATE `wydarzenia`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jestem-uczestnikiem.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jestem-uczestnikiem.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <marker date="1518709840164" expanded="true" signature="3047:3233" ph="select * fro... wydarzenia" />
+                <marker date="1518709840164" expanded="true" signature="3167:3213" ph="select id fr... users" />
+                <marker date="1518709840164" expanded="true" signature="3440:3495" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="3794:3852" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="3853:5133" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="3888:4485" ph="..." />
+                <marker date="1518709840164" expanded="false" signature="3928:3939" ph="..." />
+                <marker date="1518709840164" expanded="false" signature="3978:3990" ph="..." />
+                <marker date="1518709840164" expanded="false" signature="4029:4041" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="4080:4092" ph="..." />
+                <marker date="1518709840164" expanded="false" signature="4131:4143" ph="..." />
+                <marker date="1518709840164" expanded="false" signature="4182:4193" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="4232:4244" ph="..." />
+                <marker date="1518709840164" expanded="false" signature="4283:4295" ph="..." />
+                <marker date="1518709840164" expanded="false" signature="4334:4346" ph="..." />
+                <marker date="1518709840164" expanded="false" signature="4385:4397" ph="..." />
+                <marker date="1518709840164" expanded="false" signature="4437:4448" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="4510:5104" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="7166:7199" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="7424:7457" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="7682:7702" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="7936:7956" ph="..." />
+                <marker date="1518709840164" expanded="true" signature="8178:8198" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wyszukaj.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wyszukaj.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <marker date="1518709869383" expanded="true" signature="4359:4473" ph="SELECT * FRO... wydarzenia" />
+                <marker date="1518709869383" expanded="true" signature="4597:4652" ph="SELECT * FRO... wydarzenia" />
+                <marker date="1518709869383" expanded="true" signature="4777:4842" ph="SELECT * FRO... wydarzenia" />
+                <marker date="1518709869383" expanded="true" signature="5312:5370" ph="..." />
+                <marker date="1518709869383" expanded="true" signature="5371:6601" ph="..." />
+                <marker date="1518709869383" expanded="true" signature="5406:5953" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5444:5455" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5494:5506" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5545:5557" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5596:5608" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5647:5659" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5698:5709" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5748:5760" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5799:5811" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5853:5865" ph="..." />
+                <marker date="1518709869383" expanded="false" signature="5904:5916" ph="..." />
+                <marker date="1518709869383" expanded="true" signature="5978:6572" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/671d59bb-2cda-47af-93b2-a60dcc532772/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uczestnicy" pinned="false" current-in-tab="false">
+        <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.uczestnicy">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users" pinned="false" current-in-tab="false">
+        <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.users">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wydarzenia" pinned="false" current-in-tab="false">
+        <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.wydarzenia">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jestem-uczestnikiem.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\xampp\htdocs\PRACA_INZYNIERSKA" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost/PRACA_INZYNIERSKA" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="101" />
+    <option name="y" value="-8" />
+    <option name="width" value="933" />
+    <option name="height" value="985" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PRACA_INZYNIERSKA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRACA_INZYNIERSKA" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.PRACA_INZYNIERSKA">
+    <configuration name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/index.php" />
+    <configuration name="PRACA_INZYNIERSKA" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="jestem-uczestnikiem.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/jestem-uczestnikiem.php" />
+    <configuration name="wyszukaj.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/wyszukaj.php" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.jestem-uczestnikiem.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.wyszukaj.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHPUnit.PRACA_INZYNIERSKA" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.PRACA_INZYNIERSKA" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.wyszukaj.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.jestem-uczestnikiem.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ff4b6e2-ed6a-40ec-9ac9-442644984d14" name="Default" comment="" />
+      <created>1518774001136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518774001136</updated>
+      <workItem from="1518774004272" duration="668000" />
+      <workItem from="1519148738418" duration="1488000" />
+      <workItem from="1519168876267" duration="1253000" />
+      <workItem from="1519429745203" duration="899000" />
+      <workItem from="1519670805896" duration="624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PRACA_INZYNIERSKA - 2018.02.21 at 00h 41m 03s.xml">
+      <configuration name="PRACA_INZYNIERSKA" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4932000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dodaj_uczestnika.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1518652784506" expanded="true" signature="502:580" ph="Select data_... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="809:901" ph="SELECT ilosc... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="1233:1354" ph="Select * fro... uczestnicy" />
+            <marker date="1518652784506" expanded="true" signature="1307:1353" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="1761:1881" ph="insert into uczestnicy... " />
+            <marker date="1518652784506" expanded="true" signature="1812:1858" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="2267:2355" ph="UPDATE `wydarzenia`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wyszukaj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1518709869383" expanded="true" signature="4359:4473" ph="SELECT * FRO... wydarzenia" />
+            <marker date="1518709869383" expanded="true" signature="4597:4652" ph="SELECT * FRO... wydarzenia" />
+            <marker date="1518709869383" expanded="true" signature="4777:4842" ph="SELECT * FRO... wydarzenia" />
+            <marker date="1518709869383" expanded="true" signature="5312:5370" ph="..." />
+            <marker date="1518709869383" expanded="true" signature="5371:6601" ph="..." />
+            <marker date="1518709869383" expanded="true" signature="5406:5953" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5444:5455" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5494:5506" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5545:5557" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5596:5608" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5647:5659" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5698:5709" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5748:5760" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5799:5811" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5853:5865" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5904:5916" ph="..." />
+            <marker date="1518709869383" expanded="true" signature="5978:6572" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jestem-uczestnikiem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1518709840164" expanded="true" signature="3047:3233" ph="select * fro... wydarzenia" />
+            <marker date="1518709840164" expanded="true" signature="3167:3213" ph="select id fr... users" />
+            <marker date="1518709840164" expanded="true" signature="3440:3495" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3794:3852" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3853:5133" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3888:4485" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3928:3939" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3978:3990" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4029:4041" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4080:4092" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4131:4143" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4182:4193" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4232:4244" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4283:4295" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4334:4346" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4385:4397" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4437:4448" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4510:5104" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7166:7199" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7424:7457" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7682:7702" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7936:7956" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="8178:8198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/671d59bb-2cda-47af-93b2-a60dcc532772/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.uczestnicy">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.wydarzenia">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodaj_uczestnika.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1518652784506" expanded="true" signature="502:580" ph="Select data_... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="809:901" ph="SELECT ilosc... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="1233:1354" ph="Select * fro... uczestnicy" />
+            <marker date="1518652784506" expanded="true" signature="1307:1353" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="1761:1881" ph="insert into uczestnicy... " />
+            <marker date="1518652784506" expanded="true" signature="1812:1858" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="2267:2355" ph="UPDATE `wydarzenia`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wyszukaj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1518709869383" expanded="true" signature="4359:4473" ph="SELECT * FRO... wydarzenia" />
+            <marker date="1518709869383" expanded="true" signature="4597:4652" ph="SELECT * FRO... wydarzenia" />
+            <marker date="1518709869383" expanded="true" signature="4777:4842" ph="SELECT * FRO... wydarzenia" />
+            <marker date="1518709869383" expanded="true" signature="5312:5370" ph="..." />
+            <marker date="1518709869383" expanded="true" signature="5371:6601" ph="..." />
+            <marker date="1518709869383" expanded="true" signature="5406:5953" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5444:5455" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5494:5506" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5545:5557" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5596:5608" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5647:5659" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5698:5709" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5748:5760" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5799:5811" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5853:5865" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5904:5916" ph="..." />
+            <marker date="1518709869383" expanded="true" signature="5978:6572" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jestem-uczestnikiem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1518709840164" expanded="true" signature="3047:3233" ph="select * fro... wydarzenia" />
+            <marker date="1518709840164" expanded="true" signature="3167:3213" ph="select id fr... users" />
+            <marker date="1518709840164" expanded="true" signature="3440:3495" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3794:3852" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3853:5133" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3888:4485" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3928:3939" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3978:3990" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4029:4041" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4080:4092" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4131:4143" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4182:4193" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4232:4244" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4283:4295" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4334:4346" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4385:4397" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4437:4448" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4510:5104" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7166:7199" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7424:7457" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7682:7702" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7936:7956" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="8178:8198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/671d59bb-2cda-47af-93b2-a60dcc532772/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.uczestnicy">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.wydarzenia">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodaj_uczestnika.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1518652784506" expanded="true" signature="502:580" ph="Select data_... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="809:901" ph="SELECT ilosc... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="1233:1354" ph="Select * fro... uczestnicy" />
+            <marker date="1518652784506" expanded="true" signature="1307:1353" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="1761:1881" ph="insert into uczestnicy... " />
+            <marker date="1518652784506" expanded="true" signature="1812:1858" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="2267:2355" ph="UPDATE `wydarzenia`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jestem-uczestnikiem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="119" column="50" lean-forward="true" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
+          <folding>
+            <marker date="1518709840164" expanded="true" signature="3047:3233" ph="select * fro... wydarzenia" />
+            <marker date="1518709840164" expanded="true" signature="3167:3213" ph="select id fr... users" />
+            <marker date="1518709840164" expanded="true" signature="3440:3495" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3794:3852" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3853:5133" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3888:4485" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3928:3939" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3978:3990" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4029:4041" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4080:4092" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4131:4143" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4182:4193" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4232:4244" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4283:4295" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4334:4346" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4385:4397" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4437:4448" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4510:5104" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7166:7199" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7424:7457" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7682:7702" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7936:7956" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="8178:8198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodaj_uczestnika.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1518652784506" expanded="true" signature="502:580" ph="Select data_... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="809:901" ph="SELECT ilosc... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="1233:1354" ph="Select * fro... uczestnicy" />
+            <marker date="1518652784506" expanded="true" signature="1307:1353" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="1761:1881" ph="insert into uczestnicy... " />
+            <marker date="1518652784506" expanded="true" signature="1812:1858" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="2267:2355" ph="UPDATE `wydarzenia`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jestem-uczestnikiem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1518709840164" expanded="true" signature="3047:3233" ph="select * fro... wydarzenia" />
+            <marker date="1518709840164" expanded="true" signature="3167:3213" ph="select id fr... users" />
+            <marker date="1518709840164" expanded="true" signature="3440:3495" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3794:3852" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3853:5133" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3888:4485" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3928:3939" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3978:3990" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4029:4041" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4080:4092" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4131:4143" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4182:4193" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4232:4244" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4283:4295" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4334:4346" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4385:4397" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4437:4448" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4510:5104" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7166:7199" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7424:7457" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7682:7702" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7936:7956" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="8178:8198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4bf2f132-6df5-4c45-92f9-68e96bf98ad3/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/671d59bb-2cda-47af-93b2-a60dcc532772/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.uczestnicy">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/5dbd0c83/671d59bb-2cda-47af-93b2-a60dcc532772/ference.wydarzenia">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jestem-uczestnikiem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1518709840164" expanded="true" signature="3047:3233" ph="select * fro... wydarzenia" />
+            <marker date="1518709840164" expanded="true" signature="3167:3213" ph="select id fr... users" />
+            <marker date="1518709840164" expanded="true" signature="3440:3495" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3794:3852" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3853:5133" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="3888:4485" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3928:3939" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="3978:3990" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4029:4041" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4080:4092" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4131:4143" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4182:4193" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4232:4244" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4283:4295" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4334:4346" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4385:4397" ph="..." />
+            <marker date="1518709840164" expanded="false" signature="4437:4448" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="4510:5104" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7166:7199" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7424:7457" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7682:7702" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="7936:7956" ph="..." />
+            <marker date="1518709840164" expanded="true" signature="8178:8198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wyszukaj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1518709869383" expanded="true" signature="4359:4473" ph="SELECT * FRO... wydarzenia" />
+            <marker date="1518709869383" expanded="true" signature="4597:4652" ph="SELECT * FRO... wydarzenia" />
+            <marker date="1518709869383" expanded="true" signature="4777:4842" ph="SELECT * FRO... wydarzenia" />
+            <marker date="1518709869383" expanded="true" signature="5312:5370" ph="..." />
+            <marker date="1518709869383" expanded="true" signature="5371:6601" ph="..." />
+            <marker date="1518709869383" expanded="true" signature="5406:5953" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5444:5455" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5494:5506" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5545:5557" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5596:5608" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5647:5659" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5698:5709" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5748:5760" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5799:5811" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5853:5865" ph="..." />
+            <marker date="1518709869383" expanded="false" signature="5904:5916" ph="..." />
+            <marker date="1518709869383" expanded="true" signature="5978:6572" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dodaj_uczestnika.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1518652784506" expanded="true" signature="502:580" ph="Select data_... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="809:901" ph="SELECT ilosc... wydarzenia" />
+            <marker date="1518652784506" expanded="true" signature="1233:1354" ph="Select * fro... uczestnicy" />
+            <marker date="1518652784506" expanded="true" signature="1307:1353" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="1761:1881" ph="insert into uczestnicy... " />
+            <marker date="1518652784506" expanded="true" signature="1812:1858" ph="Select id fr... users" />
+            <marker date="1518652784506" expanded="true" signature="2267:2355" ph="UPDATE `wydarzenia`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
